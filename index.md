@@ -3,3 +3,6 @@
 ```
 aquí iría código si supiera programar
 ```
+- [ ] 3
+- [ ] 6
+- [ ] 9
